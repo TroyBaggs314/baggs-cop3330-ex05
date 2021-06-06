@@ -26,5 +26,6 @@ public class exercise05
         System.out.println("What is the second number?");
         num.n2 = sc.nextInt();
         return num;
+        //github test comment hello!
     }
 }
